@@ -1,6 +1,6 @@
 # Autonomous Trash-Picking Robot with AI
 
-> **Project status:** Early-stage starter repository. Replace this status with your actual progress. Do not describe hardware or AI features as completed until you have built and tested them.
+> **Project status:** Early-stage starter repository.Completed just the codes only not actually tester
 
 An educational robotics project exploring how a small mobile robot could detect selected litter, navigate toward it, and collect it. The proposed system uses a Raspberry Pi for vision and high-level decisions, an Arduino for low-level motor control, and sensors for obstacle awareness.
 
