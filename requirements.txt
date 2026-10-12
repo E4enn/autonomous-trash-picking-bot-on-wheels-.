@@ -1,0 +1,4 @@
+opencv-python
+pyserial
+pytest
+# Add a model runtime only after selecting a compatible model and Raspberry Pi setup.
