@@ -21,6 +21,6 @@ I'm developing an educational robotics project exploring computer vision, Raspbe
 ## What I'm learning
 I document experiments, test results, mistakes and improvements so that my projects are reproducible and honest.
 
-Contact: [professional email or other public link you are comfortable sharing]
+Contact: coreripper12@gmail.com
 
 <!-- Only list technologies, achievements, and project milestones you can genuinely demonstrate. -->
